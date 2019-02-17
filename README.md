@@ -1,2 +1,0 @@
-# OpenClassroomtest
-Created with CodeSandbox
